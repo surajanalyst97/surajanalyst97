@@ -6,7 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
--Certified Power BI DATA Analyst PL 300
 - 📫 How to reach me **surajmishraa76@gmail.com**
 
 - ⚡ Fun fact **I am funny**
